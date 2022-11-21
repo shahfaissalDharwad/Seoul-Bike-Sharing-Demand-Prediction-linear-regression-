@@ -62,3 +62,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 * We also tried Tree based classifiers for our data, we applied Decision Tree Regressor, since decision tree is prone to overfit, we gave certain parameters like maximum depth of the tree, maximum leaf nodes etc, with that we we got R2 score of 0.835 for training data and 0.803 for test data which is less than polynomial regression.
 * To get better accuracy on tree based model, we applied Random forest with n_estimator as 180 and with maximum depth as 13, with that we got R2 score of 0.888 for training data and 0.875 for test data.
 * Finally, we applied Gradient boost with parameters selected after grid search which resulted in highest R2 score of 0.958 for training data and 0.933 for test data with very less mean squared error of 6 and 10 in training as well as in test data. 15.Also we can see from SHAP summary that high Hour_18 value increasing prediction. * Also we can see low Snowfall value increasing prediction and it is a common phenomenon in all the models. 16.Lastly, In bar graph from SHAP we can see Winter has the highest feature value while Wind Speed has the Lowest shap value.We can conclude that Hour_21,Hour_8 and Wind Speed is not contributing in Decision Tree,Random Forest and Gradient Boost in model prediction.
+
+# 📋 Execution Instruction
+The order of execution of the program files is as follows:
+1) .py
