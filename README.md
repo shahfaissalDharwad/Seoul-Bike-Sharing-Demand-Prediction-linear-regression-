@@ -77,4 +77,4 @@ Shahfaissal I Dharwad | Avid Learner | Data Scientist | Machine Learning Enginee
 
 Contact me for Data Science Project Collaborations
 
-LinkedIn Badge GitHub Badge Medium Badge Resume Badge
+<a href='linkedin.com/in/shahfaissal-' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=black&color=black'/></a> 
