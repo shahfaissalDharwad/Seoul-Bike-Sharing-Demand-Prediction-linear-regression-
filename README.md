@@ -78,3 +78,8 @@ Shahfaissal I Dharwad | Avid Learner | Data Scientist | Machine Learning Enginee
 Contact me for Data Science Project Collaborations
 
 <a href='linkedin.com/in/shahfaissal-' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=plastic&logo=linkedin&logoColor=white&labelColor=black&color=black'/></a> <a href='github.com/shahfaissalDharwad' target="_blank"><img alt='Github' src='https://img.shields.io/badge/GitHub-100000?style=plastic&logo=Github&logoColor=white&labelColor=black&color=black'/></a> <a href='https://medium.com/@shahfaissal21/reading-a-csv-file-in-python-7a834d906c3e' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=plastic&logo=Medium&logoColor=white&labelColor=black&color=black'/></a>
+# 📚 References
+1.Analyticsvidhya
+2.W3school
+3.GeeksforGeeks
+4.Medium
