@@ -65,4 +65,9 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 
 # 📋 Execution Instruction
 The order of execution of the program files is as follows:
-1) .py
+1) Bike_Sharing_Demand_Prediction_Capstone_Project2.py
+First, the Bike_Sharing_Demand_Prediction_Capstone_Project2.py file must be executed to define all the functions and variables required for classification operations.
+2) train.py
+Then, the train.py file must be executed, which leads to the production of the model.txt file. At the beginning of this file, the Bike_Sharing_Demand_Prediction_Capstone_Project2 has been imported so that the functions defined in it can be used.
+3) test.py
+Finally, the test.py file must be executed to create the result.txt and evaluation.txt files. Just like the train.py file, at the beginning of this file, the Bike_Sharing_Demand_Prediction_Capstone_Project2  has been imported so that the functions defined in it can be used.
