@@ -1,5 +1,7 @@
 # 💾Seoul Bike Sharing Demand Prediction
 
+![download (6)](https://user-images.githubusercontent.com/96904369/203520877-45f90cf2-e1f7-4751-9159-8e6d4e0fb317.jpg)
+
 # Abstract:
 Bike sharing as we know is a transport service primary focus to lend conventional or electrical bikes to an individual or a group of individuals in order to let them travel in city or outskirt in rent for an hour, a day or for a month depending on the needs.
 
